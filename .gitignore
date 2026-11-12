@@ -1,0 +1,6 @@
+# Local database configuration
+config/db.local.php
+
+# OS files
+.DS_Store
+Thumbs.db
